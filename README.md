@@ -1,6 +1,8 @@
 🛫 Boeing Analytics — SQL to Visual Insights
+
 This project generates ready–made Boeing aircraft analytics and dashboards from structured SQL datasets.
 With database queries and Power BI visualizations, you can transform aircraft, customer, and financial data into business–ready insights.
+
 📊 Features
 Aircraft Reliability Dashboard — model performance, malfunction frequency, maintenance costs.
 Global Orders Heatmap — airline orders by region and customer group.
